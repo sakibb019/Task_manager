@@ -23,7 +23,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/task_manager.git
+   git clone https://github.com/sakibb019/task_manager.git
    ```
 
 Navigateinto the project
@@ -35,8 +35,7 @@ Install the dependencies:
 
 To run the app, connect a device (either an emulator or a physical device) and execute the following command:
 
-```bash
-flutter run
+`flutter run `
 
 ## Project Structure
 The project is organized into several directories for better maintainability:
@@ -57,4 +56,4 @@ Contributions are welcome! If you would like to contribute to this project, plea
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-```
+
